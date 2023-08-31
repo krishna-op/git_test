@@ -1,3 +1,3 @@
 # git_test
-Testing github integration from local macchine
+Testing github integration from local machine
 Hello Odin!
